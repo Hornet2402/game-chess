@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Alex\source\repos\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Project1\Project1\Debug\Project1.ChoosePiece.resources
+D:\Projects\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Projects\Project1\Project1\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Project1\Project1\Debug\Project1.ChoosePiece.resources
+D:\Projects\Project1\Project1\Debug\Project1.MyForm.resources
+D:\Projects\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache

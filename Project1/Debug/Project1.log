@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\Projects\Project1\Project1\Figures.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projects\Project1\Project1\Figures.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projects\Project1\Project1\Figures.h(24,19): warning C4490: 'override': incorrect use of override specifier; 'Project1::Figure::ShowPossibleTurns' does not match a base ref class method
+D:\Projects\Project1\Project1\Figures.h(24,19): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+  ChoosePiece.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\Projects\Project1\Debug\Project1.exe
